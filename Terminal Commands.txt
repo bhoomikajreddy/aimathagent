@@ -1,0 +1,5 @@
+Terminal Commands:
+cd "ai projects/aimathagent" 
+uv init .
+uv add langgraph langchain python-dotenv langchain-openai
+uv run main.py
