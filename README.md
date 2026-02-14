@@ -17,3 +17,8 @@ Installable without Rust or Python via curl or pip.
 Supports macOS, Linux, and Windows.
 uv is backed by Astral, the creators of Ruff.
 https://docs.astral.sh/uv/
+
+langgraph
+langchain
+python-dotenv
+langchain-openai
