@@ -18,7 +18,8 @@ Supports macOS, Linux, and Windows.
 uv is backed by Astral, the creators of Ruff.
 https://docs.astral.sh/uv/
 
-langgraph
-langchain
-python-dotenv
+langgraph: complex framework, used to build, manage, and deploy complex, stateful AI agent applications
+langchain_core: high level framework that allows us to build AI applications
+langchain_openai: allows us to use openai within langchain and langgraph
+dotenv: allows us to load environment variable files from within out python script
 langchain-openai
